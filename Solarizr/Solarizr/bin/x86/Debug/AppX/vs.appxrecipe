@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-16T15:03:15.767</Modified>
+      <Modified>2019-10-16T16:54:28.642</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe">
       <PackagePath>entrypoint\Solarizr.exe</PackagePath>
-      <Modified>2019-10-16T15:03:06.851</Modified>
+      <Modified>2019-10-16T16:54:27.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,27 +86,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml">
       <PackagePath>Solarizr.xr.xml</PackagePath>
-      <Modified>2019-10-16T15:03:06.327</Modified>
+      <Modified>2019-10-16T16:54:27.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-10-16T15:03:06.441</Modified>
+      <Modified>2019-10-16T16:36:49.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage1.xbf">
       <PackagePath>BlankPage1.xbf</PackagePath>
-      <Modified>2019-10-16T15:03:06.442</Modified>
+      <Modified>2019-10-16T16:54:27.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage2.xbf">
       <PackagePath>BlankPage2.xbf</PackagePath>
-      <Modified>2019-10-16T15:03:06.443</Modified>
+      <Modified>2019-10-16T16:36:49.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage3.xbf">
       <PackagePath>BlankPage3.xbf</PackagePath>
-      <Modified>2019-10-16T15:03:06.443</Modified>
+      <Modified>2019-10-16T16:36:49.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-10-16T15:03:06.443</Modified>
+      <Modified>2019-10-16T16:36:49.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -118,7 +118,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe">
       <PackagePath>Solarizr.exe</PackagePath>
-      <Modified>2019-10-16T15:03:15.676</Modified>
+      <Modified>2019-10-16T16:54:28.610</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
