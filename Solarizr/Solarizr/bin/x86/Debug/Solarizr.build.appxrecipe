@@ -79,6 +79,9 @@
     <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage3.xbf">
       <PackagePath>BlankPage3.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>

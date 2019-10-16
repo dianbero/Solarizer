@@ -118,3 +118,8 @@ C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.i.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xaml
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xbf

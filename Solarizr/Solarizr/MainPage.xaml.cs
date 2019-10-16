@@ -42,5 +42,10 @@ namespace Solarizr
         {
             MyFrame.Navigate(typeof(BlankPage3));
         }
+        private void btnLog_Click(object sender, RoutedEventArgs e)
+        {
+            //TODO hay que comprobar que los datos son correctos para permitir navegación
+            MyFrame.Navigate(typeof(Login));
+        }
     }
 }

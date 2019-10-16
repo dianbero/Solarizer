@@ -10,6 +10,7 @@
 
     <StackPanel>
         <StackPanel x:Name="stackPanelBotones" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <AppBarButton x:Name="btnLog" Width="300" Content="Login" Click="btnLog_Click"/>
             <AppBarButton x:Name="btnLogin" Width="300" Content="Logout" Click="btnLogin_Click"/>
             <AppBarButton x:Name="btnListaCitas" Content="Lista de citas" Width="300" Click="btnListaCitas_Click"/>
             <AppBarButton x:Name="btnFicha" Content="Añadir Ficha de cita" Width="300" Click="btnFicha_Click"/>
