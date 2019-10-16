@@ -10,10 +10,11 @@
 
     <StackPanel>
         <StackPanel x:Name="stackPanelBotones" Orientation="Horizontal" HorizontalAlignment="Center" >
-            <AppBarButton x:Name="btnLogin" Width="300"/>
-            <AppBarButton x:Name="btnListaCitas" Width="300"/>
-            <AppBarButton x:Name="btnFicha" Width="300"/>
-            <AppBarButton x:Name="btnCamara" Width="300"/>          
+            <AppBarButton x:Name="btnLogin" Width="300" Content="Logout" Click="btnLogin_Click"/>
+            <AppBarButton x:Name="btnListaCitas" Content="Lista de citas" Width="300" Click="btnListaCitas_Click"/>
+            <AppBarButton x:Name="btnFicha" Content="Añadir Ficha de cita" Width="300" Click="btnFicha_Click"/>
+            <!--<AppBarButton x:Name="btnCamara" Content="" Width="300"/>-->
+            <Frame Name="MyFrame"></Frame>
         </StackPanel>
     </StackPanel>
 </Page>

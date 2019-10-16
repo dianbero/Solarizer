@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Solarizr.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Solarizr"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <StackPanel x:ConnectionId='2' x:Name="stackPanelBotones" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <AppBarButton x:ConnectionId='3' x:Name="btnLogin" Width="300" Content="Logout"                       />
+            <AppBarButton x:ConnectionId='4' x:Name="btnListaCitas" Content="Lista de citas" Width="300"                            />
+            <AppBarButton x:ConnectionId='5' x:Name="btnFicha" Content="Añadir Ficha de cita" Width="300"                       />
+            <!--<AppBarButton x:Name="btnCamara" Content="" Width="300"/>-->
+            <Frame x:ConnectionId='6' Name="MyFrame"></Frame>
+        </StackPanel>
+    </StackPanel>
+</Page>
+
