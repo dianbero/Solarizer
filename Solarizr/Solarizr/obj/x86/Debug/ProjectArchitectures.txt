@@ -1,1 +1,1 @@
-C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Solarizr.csproj;x86
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Solarizr.csproj;x86

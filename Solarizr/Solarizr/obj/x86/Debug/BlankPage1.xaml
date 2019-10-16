@@ -12,7 +12,7 @@
         <ListView x:ConnectionId='2' x:Name="DatesList" HorizontalAlignment="Center">
             <ListView.ItemTemplate>
                 <DataTemplate                      >
-                    <Grid><!-- x:ConnectionId='4' Como hago que el grid ocupe todo el ancho-->
+                    <Grid><!-- x:ConnectionId='3' Como hago que el grid ocupe todo el ancho-->
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="1*"/>
                             <ColumnDefinition Width="1*"/>
@@ -23,7 +23,7 @@
                             <RowDefinition Height="Auto"></RowDefinition>
                             <RowDefinition Height="Auto"></RowDefinition>
                         </Grid.RowDefinitions>
-                        <TextBlock x:ConnectionId='5' x:Name="NombreCliente"                 Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">Paco no sabe</TextBlock>
+                        <TextBlock x:ConnectionId='4' x:Name="NombreCliente"                 Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">Paco no sabe</TextBlock>
                         <TextBlock x:Name="Direccion" Grid.Row="1" Grid.Column="0">Calle de la piruleta nº2</TextBlock>
                         <TextBlock x:Name="FechaCita" Grid.Row="2" Grid.Column="0">24/09/2019</TextBlock>
                         <TextBlock x:Name="HoraCita" Grid.Row="2" Grid.Column="1" >13:00</TextBlock>
