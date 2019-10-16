@@ -8,7 +8,12 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
-
-    </Grid>
+    <StackPanel>
+        <StackPanel x:Name="stackPanelBotones" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <AppBarButton x:Name="btnLogin" Width="300"/>
+            <AppBarButton x:Name="btnListaCitas" Width="300"/>
+            <AppBarButton x:Name="btnFicha" Width="300"/>
+            <AppBarButton x:Name="btnCamara" Width="300"/>          
+        </StackPanel>
+    </StackPanel>
 </Page>
