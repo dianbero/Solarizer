@@ -9,13 +9,22 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <StackPanel>
-        <StackPanel x:Name="stackPanelBotones" Orientation="Horizontal" HorizontalAlignment="Center" >
-            <AppBarButton x:Name="btnLog" Width="300" Content="Login" Click="btnLog_Click"/>
-            <AppBarButton x:Name="btnLogin" Width="300" Content="Logout" Click="btnLogin_Click"/>
-            <AppBarButton x:Name="btnListaCitas" Content="Lista de citas" Width="300" Click="btnListaCitas_Click"/>
-            <AppBarButton x:Name="btnFicha" Content="Añadir Ficha de cita" Width="300" Click="btnFicha_Click"/>
+        <Grid x:Name="stackPanelBotones" Background="DarkKhaki">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <AppBarButton x:Name="btnLog" Content="Login" Click="btnLog_Click" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+            <AppBarButton x:Name="btnLogin" Grid.Column="1" Content="Logout" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Click="btnLogin_Click" />
+            <AppBarButton x:Name="btnListaCitas" Grid.Column="2" Content="Lista de citas" HorizontalAlignment="Center" FontSize="15" VerticalAlignment="Center" Click="btnListaCitas_Click" />
+            <AppBarButton x:Name="btnFicha" Grid.Column="3" Content="Añadir Ficha de cita" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Click="btnFicha_Click" />
             <!--<AppBarButton x:Name="btnCamara" Content="" Width="300"/>-->
-        </StackPanel>
+        </Grid>
         <Frame Name="MyFrame"></Frame>
     </StackPanel>
 </Page>

@@ -9,13 +9,22 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <StackPanel>
-        <StackPanel x:ConnectionId='2' x:Name="stackPanelBotones" Orientation="Horizontal" HorizontalAlignment="Center" >
-            <AppBarButton x:ConnectionId='4' x:Name="btnLog" Width="300" Content="Login"                     />
-            <AppBarButton x:ConnectionId='5' x:Name="btnLogin" Width="300" Content="Logout"                       />
-            <AppBarButton x:ConnectionId='6' x:Name="btnListaCitas" Content="Lista de citas" Width="300"                            />
-            <AppBarButton x:ConnectionId='7' x:Name="btnFicha" Content="Añadir Ficha de cita" Width="300"                       />
+        <Grid x:ConnectionId='2' x:Name="stackPanelBotones" Background="DarkKhaki">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <AppBarButton x:ConnectionId='4' x:Name="btnLog" Content="Login"                      HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"/>
+            <AppBarButton x:ConnectionId='5' x:Name="btnLogin" Grid.Column="1" Content="Logout" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"                        />
+            <AppBarButton x:ConnectionId='6' x:Name="btnListaCitas" Grid.Column="2" Content="Lista de citas" HorizontalAlignment="Center" FontSize="15" VerticalAlignment="Center"                             />
+            <AppBarButton x:ConnectionId='7' x:Name="btnFicha" Grid.Column="3" Content="Añadir Ficha de cita" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"                        />
             <!--<AppBarButton x:Name="btnCamara" Content="" Width="300"/>-->
-        </StackPanel>
+        </Grid>
         <Frame x:ConnectionId='3' Name="MyFrame"></Frame>
     </StackPanel>
 </Page>
