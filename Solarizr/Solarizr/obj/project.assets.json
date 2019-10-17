@@ -8151,24 +8151,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joker\\.nuget\\packages\\": {},
+    "C:\\Users\\dianb\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joker\\Desktop\\Solarizer\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
+      "projectUniqueName": "C:\\Users\\dianb\\Desktop\\Solarizr_Diana\\02\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
       "projectName": "Solarizr",
-      "projectPath": "C:\\Users\\Joker\\Desktop\\Solarizer\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
-      "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joker\\Desktop\\Solarizer\\Solarizer\\Solarizr\\Solarizr\\obj\\",
+      "projectPath": "C:\\Users\\dianb\\Desktop\\Solarizr_Diana\\02\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
+      "packagesPath": "C:\\Users\\dianb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dianb\\Desktop\\Solarizr_Diana\\02\\Solarizer\\Solarizr\\Solarizr\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dianb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

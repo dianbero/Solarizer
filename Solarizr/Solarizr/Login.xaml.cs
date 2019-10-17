@@ -28,7 +28,7 @@ namespace Solarizr
         }
         private void BtnEntrar_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(BlankPage1));
+            this.Frame.Navigate(typeof(ListaCitas));
         }
     }
 }

@@ -25,24 +25,24 @@ namespace Solarizr
         public MainPage()
         {
             this.InitializeComponent();
-            MyFrame.Navigate(typeof(BlankPage1));
-        }
-
-        private void btnLogin_Click(object sender, RoutedEventArgs e)
-        {
-            MyFrame.Navigate(typeof(BlankPage1));
+            MyFrame.Navigate(typeof(Login));
         }
 
         private void btnListaCitas_Click(object sender, RoutedEventArgs e)
         {
-            MyFrame.Navigate(typeof(BlankPage2));
+            MyFrame.Navigate(typeof(ListaCitas));
+        }
+
+        private void btnModificarCitas_Click(object sender, RoutedEventArgs e)
+        {
+            MyFrame.Navigate(typeof(ModificarCitas));
         }
 
         private void btnFicha_Click(object sender, RoutedEventArgs e)
         {
             MyFrame.Navigate(typeof(BlankPage3));
         }
-        private void btnLog_Click(object sender, RoutedEventArgs e)
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
             //TODO hay que comprobar que los datos son correctos para permitir navegación
             MyFrame.Navigate(typeof(Login));

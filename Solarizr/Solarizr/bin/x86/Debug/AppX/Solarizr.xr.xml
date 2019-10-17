@@ -86,8 +86,8 @@
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension" />
     <RootType FullName="System.String" />
-    <RootType FullName="Solarizr.BlankPage1" />
-    <RootType FullName="Solarizr.BlankPage2" />
+    <RootType FullName="Solarizr.ListaCitas" />
+    <RootType FullName="Solarizr.ModificarCitas" />
     <RootType FullName="Solarizr.BlankPage3" />
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="Background" />
