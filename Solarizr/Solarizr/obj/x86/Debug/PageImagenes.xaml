@@ -8,7 +8,7 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Name="grid" Background="Orange">
+    <Grid x:ConnectionId='2' Name="grid" Background="Orange">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
@@ -17,7 +17,7 @@
             <RowDefinition Height="439*"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <AppBarButton Grid.Column="0" Grid.Row="0" Icon="Back" HorizontalAlignment="Left" Height="56" VerticalAlignment="Top" Click="AppBarButton_Click">
+        <AppBarButton x:ConnectionId='3' Grid.Column="0" Grid.Row="0" Icon="Back" HorizontalAlignment="Left" Height="56" VerticalAlignment="Top"                           >
             <AppBarButton.RenderTransform>
                 <CompositeTransform ScaleX="2" ScaleY="2"/>
             </AppBarButton.RenderTransform>
@@ -36,3 +36,4 @@
 
     </Grid>
 </Page>
+

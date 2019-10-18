@@ -386,3 +386,8 @@ C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\quali
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.g.i.cs
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.g.cs
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.xaml
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.xbf
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\PageImagenes.xbf

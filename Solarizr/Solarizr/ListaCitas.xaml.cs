@@ -30,7 +30,7 @@ namespace Solarizr
 
         private void btnModificarCitas_Click(object sender, RoutedEventArgs e)
         {
-            MyFrame.Navigate(typeof(ModificarCitas));
+            this.Frame.Navigate(typeof(ModificarCitas));
         }
     }
 }

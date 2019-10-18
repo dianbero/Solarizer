@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="Solarizr.ModificarCitas"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Solarizr"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer>
+        <RelativePanel Background="Orange">
+            <StackPanel Margin="0,-160,0,0" Orientation="Vertical" RelativePanel.RightOf="txtBox" RelativePanel.AlignTopWith="txtNombre">
+                <AppBarButton x:ConnectionId='8' Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black"                                    >
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton x:ConnectionId='9' Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton x:ConnectionId='10' Name="appbtnBorrar" Icon="Delete" Label="Borrar" Foreground="Black" >
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton  Icon="Edit" Label="Editar" Foreground="Black">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+            </StackPanel>
+
+            <TextBox x:ConnectionId='2' Name="txtBox" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.AlignLeftWith="txtObservaciones" FontSize="20" RelativePanel.Below="txtObservaciones"></TextBox>
+            <TextBlock x:ConnectionId='3' Name="txtNombre" Margin="0,-150,0,0"  Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtDireccion" RelativePanel.AlignLeftWith="txtDireccion">Pera</TextBlock>
+            <TextBlock x:ConnectionId='4' Name="txtDireccion" Margin="0,-100,0,0" Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtFecha" RelativePanel.AlignLeftWith="txtFecha">Calle de la piruleta nº2</TextBlock>
+            <TextBlock x:ConnectionId='5' Name="txtFecha" Margin="0,-50,0,0" Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtObservaciones" RelativePanel.AlignLeftWith="txtObservaciones" >24/09/2019</TextBlock>
+            <TextBlock x:ConnectionId='6' Name="txtObservaciones" Foreground="White" FontSize="20" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">Observaciones:</TextBlock>
+            <Button x:ConnectionId='7' Background="Blue" Margin="0,30,0,0" x:Name="btnGuardar" Width="80" Height="30" RelativePanel.Below="txtBox" RelativePanel.AlignHorizontalCenterWith="txtBox"                         >Guardar</Button>
+        </RelativePanel>
+    </ScrollViewer>
+</Page>
+

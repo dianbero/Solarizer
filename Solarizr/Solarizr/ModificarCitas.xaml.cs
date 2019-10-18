@@ -26,5 +26,15 @@ namespace Solarizr
         {
             this.InitializeComponent();
         }
+
+        private void btnGuardar_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(ListaCitas));
+        }
+
+        private void appbtnCarpetaImagenes_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(PageImagenes));
+        }
     }
 }
