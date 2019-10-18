@@ -11,7 +11,7 @@
 
     <RelativePanel Background="Orange">
 
-        <ListView x:Name="DatesList" MaxHeight="660" MaxWidth="700" Margin="10, 0, 10, 0" ScrollViewer.VerticalScrollMode="Enabled"
+        <ListView x:Name="DatesList" MaxHeight="550" MinHeight="550" MaxWidth="700" Margin="10, 0, 10, 0" ScrollViewer.VerticalScrollMode="Enabled"
           ScrollViewer.VerticalScrollBarVisibility="Visible" RelativePanel.AlignTopWithPanel="True" RelativePanel.AlignHorizontalCenterWithPanel="True">
             <ListView.ItemContainerStyle>
                 <Style TargetType="ListViewItem">
@@ -51,7 +51,7 @@
             <x:String>Pera6</x:String>
             <x:String>Pera6</x:String>
         </ListView>
-        
+        <StackPanel RelativePanel.Below="DatesList" MinHeight="300" Background="Orange" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignBottomWithPanel="True"></StackPanel>
     </RelativePanel>
 
 </Page>
