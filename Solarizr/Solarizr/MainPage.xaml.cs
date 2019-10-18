@@ -25,7 +25,8 @@ namespace Solarizr
         public MainPage()
         {
             this.InitializeComponent();
-            MyFrame.Navigate(typeof(Login));
+            //MyFrame.Navigate(typeof(Login));
+            MyFrame.Navigate(typeof(ListaCitas));
         }
 
         private void btnListaCitas_Click(object sender, RoutedEventArgs e)
@@ -42,10 +43,10 @@ namespace Solarizr
         {
             MyFrame.Navigate(typeof(BlankPage3));
         }
-        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        private void btnLogout_Click(object sender, RoutedEventArgs e)
         {
             //TODO hay que comprobar que los datos son correctos para permitir navegación
-            MyFrame.Navigate(typeof(Login));
+            this.Frame.Navigate(typeof(Login));
         }
     }
 }

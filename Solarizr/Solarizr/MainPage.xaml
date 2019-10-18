@@ -14,15 +14,15 @@
                 <ColumnDefinition Width="*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
-                <ColumnDefinition Width="*"></ColumnDefinition>
+                <!--<ColumnDefinition Width="*"></ColumnDefinition>-->
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"></RowDefinition>
             </Grid.RowDefinitions>
-            <AppBarButton x:Name="btnLogin" Content="Login" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Click="btnLogin_Click"/>
+            <AppBarButton x:Name="btnLogout" Content="Logout" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Click="btnLogout_Click"/>
             <AppBarButton x:Name="btnListaCitas" Grid.Column="1" Content="Lista Citas" HorizontalAlignment="Center" FontSize="15" VerticalAlignment="Bottom" Click="btnListaCitas_Click"  />
-            <AppBarButton x:Name="btnModificarCitas" Grid.Column="2" Content="Modificar Citas" HorizontalAlignment="Center" FontSize="15" VerticalAlignment="Center" Click="btnModificarCitas_Click" />
-            <AppBarButton x:Name="btnFicha" Grid.Column="3" Content="Añadir Ficha de cita" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Click="btnFicha_Click" />
+            <!--<AppBarButton x:Name="btnModificarCitas" Grid.Column="2" Content="Modificar Citas" HorizontalAlignment="Center" FontSize="15" VerticalAlignment="Center" Click="btnModificarCitas_Click" />-->
+            <AppBarButton x:Name="btnFicha" Grid.Column="2" Content="Añadir cita" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Click="btnFicha_Click" />
             <!--<AppBarButton x:Name="btnCamara" Content="" Width="300"/>-->
         </Grid>
         <Frame Name="MyFrame"></Frame>

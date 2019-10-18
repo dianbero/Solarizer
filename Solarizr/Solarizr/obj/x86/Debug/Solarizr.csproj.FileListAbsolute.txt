@@ -192,3 +192,133 @@ C:\Users\dianb\Desktop\Solarizr_Diana\02\Solarizer\Solarizr\Solarizr\obj\x86\Deb
 C:\Users\dianb\Desktop\Solarizr_Diana\02\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.cs
 C:\Users\dianb\Desktop\Solarizr_Diana\02\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xaml
 C:\Users\dianb\Desktop\Solarizr_Diana\02\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.xaml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xaml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xaml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xaml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage3.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.pdb
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\resources.pri
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AppxManifest.xml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.build.appxrecipe
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.dll
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.i.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.i.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.i.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CoreCompileInputs.cache
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CopyComplete
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Solarizr.exe
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Solarizr.pdb
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\dbejarano\Desktop\DAM_GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\App.xaml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xaml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xaml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Login.xaml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\App.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Login.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.i.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.i.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Login.g.i.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Login.g.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\App.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\BlankPage3.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Login.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Solarizr.pdb
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\resources.pri
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\AppxManifest.xml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Solarizr.build.appxrecipe
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.dll
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CoreCompileInputs.cache
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CopyComplete
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Solarizr.exe
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\Solarizr.pdb
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json

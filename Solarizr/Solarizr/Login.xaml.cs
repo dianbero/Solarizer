@@ -28,7 +28,7 @@ namespace Solarizr
         }
         private void BtnEntrar_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(ListaCitas));
+            this.Frame.Navigate(typeof(MainPage)); //Al pulsar botón Entrar, manda a la página MainPage con el menú superior y poder navegar a otras páginas
         }
     }
 }
