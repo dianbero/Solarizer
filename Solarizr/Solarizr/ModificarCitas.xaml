@@ -8,7 +8,37 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
+    <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+        <RelativePanel Background="Orange">
+            <StackPanel Margin="0,-160,0,0" Orientation="Vertical" RelativePanel.RightOf="txtBox" RelativePanel.AlignTopWith="txtNombre">
+                <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton Name="appbtnBorrar" Icon="Delete" Label="Borrar" Foreground="Black" >
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton  Icon="Edit" Label="Editar" Foreground="Black">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+            </StackPanel>
 
-    </Grid>
+            <TextBox Name="txtBox" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.AlignLeftWith="txtObservaciones" FontSize="20" RelativePanel.Below="txtObservaciones"></TextBox>
+            <TextBlock Name="txtNombre" Margin="0,-150,0,0"  Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtDireccion" RelativePanel.AlignLeftWith="txtDireccion">Pera</TextBlock>
+            <TextBlock Name="txtDireccion" Margin="0,-100,0,0" Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtFecha" RelativePanel.AlignLeftWith="txtFecha">Calle de la piruleta nº2</TextBlock>
+            <TextBlock Name="txtFecha" Margin="0,-50,0,0" Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtObservaciones" RelativePanel.AlignLeftWith="txtObservaciones" >24/09/2019</TextBlock>
+            <TextBlock Name="txtObservaciones" Foreground="White" FontSize="20" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">Observaciones:</TextBlock>
+            <Button Background="Blue" Margin="0,30,0,0" x:Name="btnGuardar" Width="80" Height="30" RelativePanel.Below="txtBox" RelativePanel.AlignHorizontalCenterWith="txtBox">Guardar</Button>
+        </RelativePanel>
+    </ScrollViewer>
 </Page>

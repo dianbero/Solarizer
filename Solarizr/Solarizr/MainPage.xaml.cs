@@ -34,11 +34,6 @@ namespace Solarizr
             MyFrame.Navigate(typeof(ListaCitas));
         }
 
-        private void btnModificarCitas_Click(object sender, RoutedEventArgs e)
-        {
-            MyFrame.Navigate(typeof(ModificarCitas));
-        }
-
         private void btnFicha_Click(object sender, RoutedEventArgs e)
         {
             MyFrame.Navigate(typeof(BlankPage3));

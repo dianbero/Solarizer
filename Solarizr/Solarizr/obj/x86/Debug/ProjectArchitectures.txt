@@ -1,1 +1,1 @@
-C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\Solarizr.csproj;x86
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Solarizr.csproj;x86

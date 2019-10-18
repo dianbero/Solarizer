@@ -25,6 +25,12 @@ namespace Solarizr
         public ListaCitas()
         {
             this.InitializeComponent();
+
+        }
+
+        private void btnModificarCitas_Click(object sender, RoutedEventArgs e)
+        {
+            MyFrame.Navigate(typeof(ModificarCitas));
         }
     }
 }
