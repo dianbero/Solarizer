@@ -391,3 +391,8 @@ C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageI
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.xaml
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\PageImagenes.xbf
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\googleMaps.xbf
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.g.i.cs
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.g.cs
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.xaml
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.xbf

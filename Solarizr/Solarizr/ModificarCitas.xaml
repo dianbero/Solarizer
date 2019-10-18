@@ -16,7 +16,7 @@
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>
                 </AppBarButton>
-                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black">
+                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" Click="appbtnLocalizacion_Click">
                     <AppBarButton.RenderTransform>
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>

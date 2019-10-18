@@ -119,6 +119,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="googleMaps.xaml.cs">
+      <DependentUpon>googleMaps.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ListaCitas.xaml.cs">
       <DependentUpon>ListaCitas.xaml</DependentUpon>
     </Compile>
@@ -146,6 +149,7 @@
     <None Include="Solarizr_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\googleMaps.jpg" />
     <Content Include="Assets\imagen2.jpg" />
     <Content Include="Assets\imagen1.jpg" />
     <Content Include="Properties\Default.rd.xml" />
@@ -162,6 +166,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="googleMaps.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ListaCitas.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

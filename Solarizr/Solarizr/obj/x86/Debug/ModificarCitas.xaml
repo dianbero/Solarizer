@@ -16,7 +16,7 @@
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>
                 </AppBarButton>
-                <AppBarButton x:ConnectionId='9' Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black">
+                <AppBarButton x:ConnectionId='9' Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black"                                 >
                     <AppBarButton.RenderTransform>
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>
