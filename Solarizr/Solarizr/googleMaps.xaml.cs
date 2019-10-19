@@ -31,5 +31,10 @@ namespace Solarizr
         {
             this.Frame.Navigate(typeof(ModificarCitas));
         }
+
+        private void volver_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(ModificarCitas));
+        }
     }
 }

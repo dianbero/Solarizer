@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-J0CB49I</Machine>
-    <WindowsUser>Joker</WindowsUser>
+    <Machine>DESKTOP-04URQO5</Machine>
+    <WindowsUser>Victor</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>13898fae-70f3-4055-a4c2-bcb131442bc9</PackageIdentityName>
     <PackageIdentityPublisher>CN=dbejarano</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>41C048E93C7739623B7178673F7F914A9E9F83443F21FA4732D201AC9A058190</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>9F586E8FDC79D39FAFC02D1F7E383AEEA2CB6E3DEA14C8224F361C901AE53871</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>13898fae-70f3-4055-a4c2-bcb131442bc9_1.0.0.0_x86__ctn2kca76zgfw</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>13898fae-70f3-4055-a4c2-bcb131442bc9_ctn2kca76zgfw!App</RegisteredUserModeAppID>
     <RegisteredPackageID>13898fae-70f3-4055-a4c2-bcb131442bc9</RegisteredPackageID>
@@ -27,18 +27,18 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-18T18:41:50.018</Modified>
+      <Modified>2019-10-19T16:17:41.664</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe">
       <PackagePath>entrypoint\Solarizr.exe</PackagePath>
-      <Modified>2019-10-18T18:41:49.444</Modified>
+      <Modified>2019-10-19T16:17:41.277</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Victor\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2019-03-12T21:22:24.000</Modified>
     </AppxPackagedFile>
@@ -46,157 +46,157 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-22T23:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\googleMaps.jpg">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\googleMaps.jpg">
       <PackagePath>Assets\googleMaps.jpg</PackagePath>
-      <Modified>2019-10-18T18:08:42.392</Modified>
+      <Modified>2019-10-18T17:59:11.090</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\imagen2.jpg">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\imagen2.jpg">
       <PackagePath>Assets\imagen2.jpg</PackagePath>
-      <Modified>2019-10-18T17:39:35.318</Modified>
+      <Modified>2019-10-18T16:17:57.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\imagen1.jpg">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\imagen1.jpg">
       <PackagePath>Assets\imagen1.jpg</PackagePath>
-      <Modified>2019-10-18T17:39:35.308</Modified>
+      <Modified>2019-10-18T16:18:06.168</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-10-16T14:04:39.540</Modified>
+      <Modified>2019-10-18T15:48:29.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-10-16T14:04:39.211</Modified>
+      <Modified>2019-10-18T15:48:29.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-16T14:04:39.217</Modified>
+      <Modified>2019-10-18T15:48:29.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-16T14:04:39.222</Modified>
+      <Modified>2019-10-18T15:48:29.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-16T14:04:39.222</Modified>
+      <Modified>2019-10-18T15:48:29.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-16T14:04:39.231</Modified>
+      <Modified>2019-10-18T15:48:29.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-16T14:04:39.231</Modified>
+      <Modified>2019-10-18T15:48:29.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-16T14:04:39.234</Modified>
+      <Modified>2019-10-18T15:48:29.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml">
       <PackagePath>Solarizr.xr.xml</PackagePath>
-      <Modified>2019-10-18T18:41:49.142</Modified>
+      <Modified>2019-10-19T16:17:41.120</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-10-18T18:25:19.732</Modified>
+      <Modified>2019-10-19T16:17:41.134</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\googleMaps.xbf">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AñadirCita.xbf">
+      <PackagePath>AñadirCita.xbf</PackagePath>
+      <Modified>2019-10-19T16:17:41.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\googleMaps.xbf">
       <PackagePath>googleMaps.xbf</PackagePath>
-      <Modified>2019-10-18T18:25:19.732</Modified>
+      <Modified>2019-10-19T16:17:41.135</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf">
       <PackagePath>ListaCitas.xbf</PackagePath>
-      <Modified>2019-10-18T18:41:49.149</Modified>
+      <Modified>2019-10-19T16:17:41.135</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf">
       <PackagePath>ModificarCitas.xbf</PackagePath>
-      <Modified>2019-10-18T18:25:19.733</Modified>
+      <Modified>2019-10-19T16:17:41.135</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage3.xbf">
-      <PackagePath>BlankPage3.xbf</PackagePath>
-      <Modified>2019-10-18T18:25:19.734</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf">
       <PackagePath>Login.xbf</PackagePath>
-      <Modified>2019-10-18T18:25:19.734</Modified>
+      <Modified>2019-10-19T16:17:41.136</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-10-18T18:25:19.734</Modified>
+      <Modified>2019-10-19T16:17:41.136</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\PageImagenes.xbf">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\PageImagenes.xbf">
       <PackagePath>PageImagenes.xbf</PackagePath>
-      <Modified>2019-10-18T18:25:19.735</Modified>
+      <Modified>2019-10-19T16:17:41.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T22:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-10-18T18:22:55.461</Modified>
+      <Modified>2019-10-19T16:17:41.371</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe">
+    <AppxPackagedFile Include="C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe">
       <PackagePath>Solarizr.exe</PackagePath>
-      <Modified>2019-10-18T18:41:50.011</Modified>
+      <Modified>2019-10-19T16:17:41.662</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\Victor\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.27404.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\Victor\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Joker\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\Victor\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.27404.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Joker\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\Victor\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Joker\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\Victor\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.27404.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Joker\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\Victor\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\Victor\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.27505.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\Victor\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Joker\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\Victor\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.27505.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Joker\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\Victor\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Joker\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\Victor\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.27505.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Joker\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\Victor\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>

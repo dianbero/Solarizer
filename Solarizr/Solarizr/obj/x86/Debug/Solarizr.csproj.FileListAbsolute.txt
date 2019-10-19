@@ -261,7 +261,6 @@ C:\Users\dbejarano\Desktop\Copia Seguridad Solarizr\Solarizr\Solarizr\obj\x86\De
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf
-C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage3.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
@@ -281,8 +280,6 @@ C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Lista
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.i.cs
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.cs
-C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.i.cs
-C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.cs
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.i.cs
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.cs
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
@@ -291,13 +288,11 @@ C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\XamlT
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.xaml
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xaml
-C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xaml
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xaml
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xbf
-C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
@@ -406,3 +401,8 @@ C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\obj\x86\Debug\quali
 C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\Joker\Desktop\Solarizer\Solarizer\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AñadirCita.xbf
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.g.i.cs
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.g.cs
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.xaml
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.xbf

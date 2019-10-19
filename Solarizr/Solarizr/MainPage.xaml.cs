@@ -36,7 +36,7 @@ namespace Solarizr
 
         private void btnFicha_Click(object sender, RoutedEventArgs e)
         {
-            MyFrame.Navigate(typeof(BlankPage3));
+            MyFrame.Navigate(typeof(AñadirCita));
         }
         private void btnLogout_Click(object sender, RoutedEventArgs e)
         {

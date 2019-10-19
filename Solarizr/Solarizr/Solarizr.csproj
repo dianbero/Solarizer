@@ -119,6 +119,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="AñadirCita.xaml.cs">
+      <DependentUpon>AñadirCita.xaml</DependentUpon>
+    </Compile>
     <Compile Include="googleMaps.xaml.cs">
       <DependentUpon>googleMaps.xaml</DependentUpon>
     </Compile>
@@ -127,9 +130,6 @@
     </Compile>
     <Compile Include="ModificarCitas.xaml.cs">
       <DependentUpon>ModificarCitas.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="BlankPage3.xaml.cs">
-      <DependentUpon>BlankPage3.xaml</DependentUpon>
     </Compile>
     <Compile Include="Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
@@ -166,6 +166,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="AñadirCita.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="googleMaps.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -175,10 +179,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ModificarCitas.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="BlankPage3.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
