@@ -1,7 +1,4 @@
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage1.xbf
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage2.xbf
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\BlankPage3.xbf
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
@@ -17,27 +14,15 @@ C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage1.g.i.cs
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage1.g.cs
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage2.g.i.cs
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage2.g.cs
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.i.cs
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.g.cs
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.i.cs
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.g.cs
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.xaml
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage1.xaml
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage2.xaml
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xaml
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xaml
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\App.xbf
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage1.xbf
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage2.xbf
-C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\BlankPage3.xbf
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Login.xbf
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
 C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
@@ -406,3 +391,28 @@ C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\Añad
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.g.cs
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.xaml
 C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AñadirCita.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\googleMaps.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\PageImagenes.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.g.i.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.g.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.g.i.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.g.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.i.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.g.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.g.i.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.g.cs
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.xaml
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.xaml
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xaml
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.xaml
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\AñadirCita.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\googleMaps.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\ModificarCitas.xbf
+C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\PageImagenes.xbf

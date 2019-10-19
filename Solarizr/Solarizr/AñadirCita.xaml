@@ -8,7 +8,80 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
+    <!--<ScrollViewer>
+        <RelativePanel Background="Orange">
+            <StackPanel Margin="0,-160,0,0" Orientation="Vertical" RelativePanel.RightOf="txtBox" RelativePanel.AlignTopWith="txtNombre">
+           
+                <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black" Click="appbtnCarpetaImagenes_Click">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" Click="appbtnLocalizacion_Click">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton Name="appbtnBorrar" Icon="Delete" Label="Borrar" Foreground="Black" >
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton  Icon="Edit" Label="Editar" Foreground="Black">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+            </StackPanel>
+            
+            <TextBox Name="txtBox" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.AlignLeftWith="txtObservaciones" FontSize="20" RelativePanel.Below="txtObservaciones"></TextBox>
+            
+            <TextBlock Name="txtNombre" Margin="0,-150,0,0"  Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtDireccion" RelativePanel.AlignLeftWith="txtDireccion">Pera</TextBlock>
+            <TextBlock Name="txtDireccion" Margin="0,-100,0,0" Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtFecha" RelativePanel.AlignLeftWith="txtFecha">Calle de la piruleta nº2</TextBlock>
+            <TextBlock Name="txtFecha" Margin="0,-50,0,0" Foreground="White" FontSize="20" RelativePanel.AlignTopWith="txtObservaciones" RelativePanel.AlignLeftWith="txtObservaciones" >24/09/2019</TextBlock>
+            <TextBlock Name="txtObservaciones" Foreground="White" FontSize="20" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">Observaciones:</TextBlock>
+            
+            <Button Background="Blue" Margin="0,30,0,0" x:Name="btnGuardar" Width="80" Height="30" RelativePanel.Below="txtBox" RelativePanel.AlignHorizontalCenterWith="txtBox" Click="btnGuardar_Click">Guardar</Button>
+            
+        </RelativePanel>
+    </ScrollViewer>-->
 
-    </Grid>
+<!--Modificación Diana-->
+    
+    <ScrollViewer>
+        <RelativePanel Background="Orange">
+                 <StackPanel Margin="0,-160,0,0" Orientation="Vertical" RelativePanel.RightOf="textBox" RelativePanel.AlignTopWith="textNombre">
+                <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black" Click="appbtnCarpetaImagenes_Click">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" Click="appbtnLocalizacion_Click">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton Name="appbtnBorrar" Icon="Delete" Label="Borrar" Foreground="Black" >
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton  Icon="Edit" Label="Editar" Foreground="Black">
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="1" ScaleY="1"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+            </StackPanel>
+
+            <TextBox Name="textNombre" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" RelativePanel.AlignTopWith="textDireccion" RelativePanel.AlignLeftWith="textDireccion" Background="White" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True"></TextBox>
+            <TextBox Name="textDireccion" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True" RelativePanel.Below="textNombre"></TextBox>
+            <TextBox Name="textFecha" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True" RelativePanel.Below="textDireccion"></TextBox>
+            <TextBox Name="textOservaciones" PlaceholderText="Obeservaciones" Width="200" PlaceholderForeground="Gray" Background="White" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True" RelativePanel.Below="textFecha"></TextBox>
+            
+            <TextBox Name="textBox" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.AlignLeftWith="textObservaciones" FontSize="20" RelativePanel.Below="textObservaciones"></TextBox>
+
+            <Button Background="Blue" Margin="0,30,0,0" x:Name="btnGuardar" Width="80" Height="30" RelativePanel.Below="textBox" RelativePanel.AlignHorizontalCenterWith="textBox" Click="btnGuardar_Click">Guardar</Button>
+        </RelativePanel>
+    </ScrollViewer>
+
 </Page>
