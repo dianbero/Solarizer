@@ -67,10 +67,9 @@
                 <TextBox Name="textNombre" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" Background="White"></TextBox>
                 <TextBox Margin="0,20,0,0" Name="textDireccion" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
                 <TextBox Margin="0,20,0,0" Name="textFecha" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
-                <TextBox Margin="0,20,0,0" Name="textObservaciones" PlaceholderText="Obeservaciones" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
-            
+                <!--<TextBox Margin="0,20,0,0" Name="textObservaciones" PlaceholderText="Obeservaciones" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>-->
             </StackPanel>
-            <TextBox Name="txtbox" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.Below="textBox" RelativePanel.AlignLeftWith="textBox"></TextBox>
+            <TextBox Name="txtbox" PlaceholderText="Observaciones" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.Below="textBox" RelativePanel.AlignLeftWith="textBox"></TextBox>
 
             <Button Background="Blue" Margin="0,30,0,0" RelativePanel.Below="txtbox" RelativePanel.AlignHorizontalCenterWith="txtbox" x:Name="btnGuardar" Width="80" Height="30" Click="btnGuardar_Click">Guardar</Button>
         </RelativePanel>
