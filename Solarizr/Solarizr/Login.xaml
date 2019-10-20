@@ -7,15 +7,16 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-    <ScrollViewer Background="Orange">
-        <StackPanel  HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="panelLogin">
-            <!--HorizontalAlignment="Center" VerticalAlignment="Center"-->
+    
+    <ScrollViewer >
+        <RelativePanel Background="Orange">
+        <StackPanel  RelativePanel.AlignHorizontalCenterWithPanel="True" x:Name="panelLogin" Margin="0,150,0,0">
             <TextBlock x:Name="lblLogin" Foreground="White" VerticalAlignment="Center" FontSize="50" TextAlignment="Center" Margin="0, 90, 0, 20">Login</TextBlock>
-
             <TextBox x:Name="txtUsuario" PlaceholderText="Usuario o Email" PlaceholderForeground="Gray" Background="White" BorderThickness="0" CornerRadius="15" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 20, 0, 20"></TextBox>
             <PasswordBox x:Name="txtContraseña" PasswordChar="*"  PlaceholderText="Contraseña" Background="White" BorderThickness="0" CornerRadius="15" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 20, 0, 20"></PasswordBox>
             <Button x:Name="btnEntrar" Width="100" CornerRadius="15" Foreground="White" Background="Blue" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 20, 0, 20" Click="BtnEntrar_Click">Entrar</Button>
             <TextBlock x:Name="lblOvidasteContraseña" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"  Margin="0, 20, 0, 20">¿Olvidaste tu contraseña?</TextBlock>
         </StackPanel>
+        </RelativePanel>
     </ScrollViewer>
 </Page>
