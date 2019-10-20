@@ -40,8 +40,6 @@
       <RootMethod Name="SetAlignBottomWithPanel" />
       <RootMethod Name="GetAlignRightWithPanel" />
       <RootMethod Name="SetAlignRightWithPanel" />
-      <RootMethod Name="GetAbove" />
-      <RootMethod Name="SetAbove" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="Margin" />

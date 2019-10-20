@@ -18,7 +18,7 @@
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <AppBarButton x:ConnectionId='3' Grid.Column="0" Grid.Row="0" Icon="Back"                           >
+        <AppBarButton x:ConnectionId='3' Grid.Column="0" Grid.Row="0" Icon="Back" HorizontalAlignment="Left" VerticalAlignment="Top"                           >
             <AppBarButton.RenderTransform>
                 <CompositeTransform ScaleX="2" ScaleY="2"/>
             </AppBarButton.RenderTransform>
