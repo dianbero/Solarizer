@@ -10,7 +10,7 @@
 
 
     <ScrollViewer HorizontalScrollBarVisibility="Auto">
-        <RelativePanel Background="Orange"  Padding="0, 230,0,0">
+        <RelativePanel Background="Orange">
 
             <StackPanel Margin="100,0,0,0" Orientation="Vertical" RelativePanel.RightOf="textBox" RelativePanel.AlignTopWith="textBox" ScrollViewer.VerticalScrollMode="Enabled" ScrollViewer.VerticalScrollBarVisibility="Auto">
                 <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black" Click="appbtnCarpetaImagenes_Click">
@@ -25,7 +25,7 @@
                 </AppBarButton>
             </StackPanel>
 
-            <StackPanel Name="textBox" RelativePanel.AlignHorizontalCenterWithPanel="True">
+            <StackPanel Name="textBox" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">
                 <TextBox Name="textNombre" BorderThickness="0" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" Background="White"></TextBox>
                 <TextBox Margin="0,20,0,0"  Name="textDireccion" BorderThickness="0" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
                 <TextBox Margin="0,20,0,0" Name="textFecha" BorderThickness="0" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
