@@ -14,11 +14,11 @@
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="61*"></RowDefinition>
-            <RowDefinition Height="439*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <AppBarButton x:ConnectionId='3' Grid.Column="0" Grid.Row="0" Icon="Back" HorizontalAlignment="Left" Height="56" VerticalAlignment="Top"                           >
+        <AppBarButton x:ConnectionId='3' Grid.Column="0" Grid.Row="0" Icon="Back"                           >
             <AppBarButton.RenderTransform>
                 <CompositeTransform ScaleX="2" ScaleY="2"/>
             </AppBarButton.RenderTransform>

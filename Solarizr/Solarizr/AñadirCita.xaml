@@ -13,12 +13,12 @@
         <RelativePanel Background="Orange">
 
             <StackPanel Margin="100,0,0,0" Orientation="Vertical" RelativePanel.RightOf="textBox" RelativePanel.AlignTopWith="textBox" ScrollViewer.VerticalScrollMode="Enabled" ScrollViewer.VerticalScrollBarVisibility="Auto">
-                <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black" Click="appbtnCarpetaImagenes_Click">
+                <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black">
                     <AppBarButton.RenderTransform>
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>
                 </AppBarButton>
-                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" Click="appbtnLocalizacion_Click">
+                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" >
                     <AppBarButton.RenderTransform>
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>
