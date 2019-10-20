@@ -8,8 +8,8 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <StackPanel>
-        <Grid x:Name="stackPanelBotones" Background="DarkKhaki" >
+    <RelativePanel>
+        <Grid x:Name="stackPanelBotones" Background="DarkKhaki" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
@@ -26,7 +26,7 @@
             <!--<AppBarButton x:Name="btnCamara" Content="" Width="300"/>-->
         </Grid>
 
-        <Frame Name="MyFrame"></Frame>
+        <Frame Name="MyFrame" RelativePanel.Below="stackPanelBotones" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignBottomWithPanel="True"></Frame>
         
-    </StackPanel>
+    </RelativePanel>
 </Page>

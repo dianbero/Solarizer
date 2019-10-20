@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <ScrollViewer>
-        <RelativePanel Background="Orange">
+        <RelativePanel Background="Orange" ScrollViewer.VerticalScrollMode="Enabled" ScrollViewer.VerticalScrollBarVisibility="Auto">
             <StackPanel Margin="0,-160,0,0" Orientation="Vertical" RelativePanel.RightOf="txtBox" RelativePanel.AlignTopWith="txtNombre">
                 <AppBarButton x:ConnectionId='8' Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black"                                    >
                     <AppBarButton.RenderTransform>
