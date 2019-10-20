@@ -1,1 +1,1 @@
-C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Solarizr.csproj;x86
+C:\Users\Victor\Documents\GitHub\Solarizer\Solarizr\Solarizr\Solarizr.csproj;x86

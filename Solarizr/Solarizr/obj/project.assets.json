@@ -8151,25 +8151,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dianb\\.nuget\\packages\\": {},
+    "C:\\Users\\Victor\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dianb\\Desktop\\Solarizr_Diana\\Última modificación Diana\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
+      "projectUniqueName": "C:\\Users\\Victor\\Documents\\GitHub\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
       "projectName": "Solarizr",
-      "projectPath": "C:\\Users\\dianb\\Desktop\\Solarizr_Diana\\Última modificación Diana\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
-      "packagesPath": "C:\\Users\\dianb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dianb\\Desktop\\Solarizr_Diana\\Última modificación Diana\\Solarizer\\Solarizr\\Solarizr\\obj\\",
+      "projectPath": "C:\\Users\\Victor\\Documents\\GitHub\\Solarizer\\Solarizr\\Solarizr\\Solarizr.csproj",
+      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Victor\\Documents\\GitHub\\Solarizer\\Solarizr\\Solarizr\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\dianb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.17763"
