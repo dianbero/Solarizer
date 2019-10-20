@@ -8,6 +8,7 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+   
     <Grid Name="grid" Background="Orange">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"></ColumnDefinition>
@@ -33,6 +34,5 @@
                 </AppBarButton.RenderTransform>
             </AppBarButton>
         </VariableSizedWrapGrid>
-
     </Grid>
 </Page>

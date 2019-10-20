@@ -13,7 +13,7 @@
             <TextBlock x:ConnectionId='3' x:Name="lblLogin" Foreground="White" VerticalAlignment="Center" FontSize="50" TextAlignment="Center" Margin="0, 90, 0, 20">Login</TextBlock>
 
             <TextBox x:ConnectionId='4' x:Name="txtUsuario" PlaceholderText="Usuario o Email" PlaceholderForeground="Gray" Background="White" BorderThickness="0" CornerRadius="15" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 20, 0, 20"></TextBox>
-            <TextBox x:ConnectionId='5' x:Name="txtContraseña" PlaceholderText="Contraseña" PlaceholderForeground="Gray" Background="White" BorderThickness="0" CornerRadius="15" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 20, 0, 20"></TextBox>
+            <PasswordBox x:ConnectionId='5' x:Name="txtContraseña" PasswordChar="*" PlaceholderText="Contraseña" Background="White" BorderThickness="0" CornerRadius="15" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 20, 0, 20"></PasswordBox>
             <Button x:ConnectionId='6' x:Name="btnEntrar" Width="100" CornerRadius="15" Foreground="White" Background="Blue" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 20, 0, 20"                        >Entrar</Button>
             <TextBlock x:ConnectionId='7' x:Name="lblOvidasteContraseña" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"  Margin="0, 20, 0, 20">¿Olvidaste tu contraseña?</TextBlock>
         </StackPanel>

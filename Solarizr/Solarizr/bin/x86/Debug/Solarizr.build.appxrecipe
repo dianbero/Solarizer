@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>13898fae-70f3-4055-a4c2-bcb131442bc9</PackageIdentityName>
     <PackageIdentityPublisher>CN=dbejarano</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe">
       <PackagePath>entrypoint\Solarizr.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dianb\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,79 +34,79 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\googleMaps.jpg">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\googleMaps.jpg">
       <PackagePath>Assets\googleMaps.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\imagen2.jpg">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\imagen2.jpg">
       <PackagePath>Assets\imagen2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\imagen1.jpg">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\imagen1.jpg">
       <PackagePath>Assets\imagen1.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml">
       <PackagePath>Solarizr.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AñadirCita.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\AñadirCita.xbf">
       <PackagePath>AñadirCita.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\googleMaps.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\googleMaps.xbf">
       <PackagePath>googleMaps.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf">
       <PackagePath>ListaCitas.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\ModificarCitas.xbf">
       <PackagePath>ModificarCitas.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Login.xbf">
       <PackagePath>Login.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\PageImagenes.xbf">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\PageImagenes.xbf">
       <PackagePath>PageImagenes.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dianb\Desktop\DAM_GitHub\Trabajos en Grupo\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe">
+    <AppxPackagedFile Include="C:\Users\dianb\Desktop\Solarizr_Diana\Última modificación Diana\Solarizer\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe">
       <PackagePath>Solarizr.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

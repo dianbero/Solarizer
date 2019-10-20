@@ -16,9 +16,11 @@
             </AppBarButton.RenderTransform>
         </AppBarButton>
         <Maps:MapControl
-                x:Name="MapControl1"            
+                x:Name="MapControl1"   
+                Style="Terrain"
                 ZoomInteractionMode="GestureAndControl"
-                TiltInteractionMode="GestureAndControl"   
+                TiltInteractionMode="GestureAndControl" 
+                MapServiceToken=""
                 RelativePanel.AlignBottomWithPanel="True" RelativePanel.Below="volver" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" Margin="30,10,30,30"/>
     </RelativePanel>
 </Page>

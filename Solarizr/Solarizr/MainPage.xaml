@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <StackPanel>
-        <Grid x:Name="stackPanelBotones" Background="DarkKhaki">
+        <Grid x:Name="stackPanelBotones" Background="DarkKhaki" >
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
@@ -25,6 +25,8 @@
             <AppBarButton x:Name="btnFicha" Grid.Column="2" Content="Añadir cita" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Click="btnFicha_Click" />
             <!--<AppBarButton x:Name="btnCamara" Content="" Width="300"/>-->
         </Grid>
+
         <Frame Name="MyFrame"></Frame>
+        
     </StackPanel>
 </Page>

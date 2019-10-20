@@ -48,9 +48,9 @@
 
 <!--Modificación Diana-->
     
-    <ScrollViewer>
-        <RelativePanel Background="Orange">
-                 <StackPanel Margin="100,0,0,0" Orientation="Vertical" RelativePanel.RightOf="textBox" RelativePanel.AlignTopWith="textBox">
+  
+        <RelativePanel Background="Orange" Padding="0, 80, 0, 0">
+            <StackPanel Margin="100,0,0,0" Orientation="Vertical" RelativePanel.RightOf="textBox" RelativePanel.AlignTopWith="textBox">
                 <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black" Click="appbtnCarpetaImagenes_Click">
                     <AppBarButton.RenderTransform>
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
@@ -63,16 +63,16 @@
                 </AppBarButton>
             </StackPanel>
 
-            <StackPanel Name="textBox" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">
-                <TextBox Name="textNombre" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" Background="White"></TextBox>
-                <TextBox Margin="0,20,0,0" Name="textDireccion" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
-                <TextBox Margin="0,20,0,0" Name="textFecha" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
+            <StackPanel Name="textBox" RelativePanel.AlignHorizontalCenterWithPanel="True" >
+                <TextBox Name="textNombre" BorderThickness="0" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" Background="White"></TextBox>
+                <TextBox Margin="0,20,0,0"  Name="textDireccion" BorderThickness="0" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
+                <TextBox Margin="0,20,0,0" Name="textFecha" BorderThickness="0" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
                 <!--<TextBox Margin="0,20,0,0" Name="textObservaciones" PlaceholderText="Obeservaciones" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>-->
             </StackPanel>
-            <TextBox Name="txtbox" PlaceholderText="Observaciones" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.Below="textBox" RelativePanel.AlignLeftWith="textBox"></TextBox>
+            <TextBox Name="txtbox" PlaceholderText="Observaciones" Background="White" BorderThickness="0" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.Below="textBox" RelativePanel.AlignLeftWith="textBox"></TextBox>
 
-            <Button Background="Blue" Margin="0,30,0,0" RelativePanel.Below="txtbox" RelativePanel.AlignHorizontalCenterWith="txtbox" x:Name="btnGuardar" Width="80" Height="30" Click="btnGuardar_Click">Guardar</Button>
+            <Button Background="Blue" Margin="0,30,0,0" RelativePanel.Below="txtbox" Foreground="White" CornerRadius="15" RelativePanel.AlignHorizontalCenterWith="txtbox" x:Name="btnGuardar" Width="80" Height="30" Click="btnGuardar_Click">Guardar</Button>
         </RelativePanel>
-    </ScrollViewer>
+    
 
 </Page>
