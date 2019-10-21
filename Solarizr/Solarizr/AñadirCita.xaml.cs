@@ -31,5 +31,11 @@ namespace Solarizr
         {
             this.Frame.Navigate(typeof(ListaCitas));
         }
+
+        private void AppbtnCarpetaImagenes_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(PageImagenesVacio));
+
+        }
     }
 }

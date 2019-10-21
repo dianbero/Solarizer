@@ -8,35 +8,70 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-
+    <!--
     <ScrollViewer HorizontalScrollBarVisibility="Auto">
         <RelativePanel Background="Orange">
 
             <StackPanel Margin="100,0,0,0" Orientation="Vertical" RelativePanel.RightOf="textBox" RelativePanel.AlignTopWith="textBox" ScrollViewer.VerticalScrollMode="Enabled" ScrollViewer.VerticalScrollBarVisibility="Auto">
-                <AppBarButton x:ConnectionId='8' Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black">
+                <AppBarButton Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black">
                     <AppBarButton.RenderTransform>
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>
                 </AppBarButton>
-                <AppBarButton x:ConnectionId='9' Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" >
+                <AppBarButton Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" >
                     <AppBarButton.RenderTransform>
                         <CompositeTransform ScaleX="1" ScaleY="1"/>
                     </AppBarButton.RenderTransform>
                 </AppBarButton>
             </StackPanel>
 
-            <StackPanel x:ConnectionId='2' Name="textBox" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">
-                <TextBox x:ConnectionId='5' Name="textNombre" BorderThickness="0" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" Background="White"></TextBox>
-                <TextBox x:ConnectionId='6' Margin="0,20,0,0"  Name="textDireccion" BorderThickness="0" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
-                <TextBox x:ConnectionId='7' Margin="0,20,0,0" Name="textFecha" BorderThickness="0" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
+            <StackPanel Name="textBox" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">
+                <TextBox Name="textNombre" BorderThickness="0" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" Background="White"></TextBox>
+                <TextBox Margin="0,20,0,0"  Name="textDireccion" BorderThickness="0" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
+                <TextBox Margin="0,20,0,0" Name="textFecha" BorderThickness="0" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
             </StackPanel>
             
-            <TextBox x:ConnectionId='3' Name="txtbox" PlaceholderText="Observaciones" BorderThickness="0" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.Below="textBox" PlaceholderForeground="Gray" Background="White"  RelativePanel.AlignLeftWith="textBox"></TextBox>
+            <TextBox Name="txtbox" PlaceholderText="Observaciones" BorderThickness="0" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" RelativePanel.Below="textBox" PlaceholderForeground="Gray" Background="White"  RelativePanel.AlignLeftWith="textBox"></TextBox>
 
-            <Button x:ConnectionId='4' Background="Blue" Margin="0,30,0,0" RelativePanel.Below="txtbox" Foreground="White" CornerRadius="15" RelativePanel.AlignHorizontalCenterWith="txtbox" x:Name="btnGuardar" Width="80" Height="30"                         >Guardar</Button>
+            <Button Background="Blue" Margin="0,30,0,0" RelativePanel.Below="txtbox" Foreground="White" CornerRadius="15" RelativePanel.AlignHorizontalCenterWith="txtbox" x:Name="btnGuardar" Width="80" Height="30" Click="btnGuardar_Click">Guardar</Button>
 
     </RelativePanel>
     </ScrollViewer>
+    -->
 
+    <ScrollViewer>
+        <Grid x:ConnectionId='2' Name="grid" Background="Orange">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel HorizontalAlignment="Center" Grid.Column="0" Grid.Row="0" Orientation="Horizontal">
+                <AppBarButton x:ConnectionId='9' Name="appbtnCarpetaImagenes"  Label="Imagenes" Icon="MoveToFolder" Foreground="Black"                                    >
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="2" ScaleY="2"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+                <AppBarButton x:ConnectionId='10' Margin="70,0" Name="appbtnLocalizacion" Icon="Home" Label="Localizacion"  Foreground="Black" >
+                    <AppBarButton.RenderTransform>
+                        <CompositeTransform ScaleX="2" ScaleY="2"/>
+                    </AppBarButton.RenderTransform>
+                </AppBarButton>
+            </StackPanel>
+
+            <StackPanel x:ConnectionId='3' Margin="0,150,0,0" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" Name="panelCentrado" Orientation="Vertical">
+                <TextBox x:ConnectionId='4' HorizontalAlignment="Left" Name="textNombre" BorderThickness="0" PlaceholderText="Nombre" Width="200" PlaceholderForeground="Gray" Background="White"></TextBox>
+                <TextBox x:ConnectionId='5' HorizontalAlignment="Left" Margin="0,20,0,0"  Name="textDireccion" BorderThickness="0" PlaceholderText="Dirección"  Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
+                <TextBox x:ConnectionId='6' HorizontalAlignment="Left" Margin="0,20,0,0" Name="textFecha" BorderThickness="0" PlaceholderText="Fecha" Width="200" PlaceholderForeground="Gray" Background="White" ></TextBox>
+                <TextBox x:ConnectionId='7' HorizontalAlignment="Left" Name="txtbox" PlaceholderText="Observaciones" BorderThickness="0" Margin="0,30,0,0" Width="300" Height="100" MaxHeight="200" MaxWidth="400" PlaceholderForeground="Gray" Background="White" ></TextBox>
+                <Button x:ConnectionId='8' HorizontalAlignment="Center" Background="Blue" Margin="0,30,0,0" Foreground="White" CornerRadius="15"  x:Name="btnGuardar" Width="80" Height="30"                         >Guardar</Button>
+
+            </StackPanel>
+
+        </Grid>
+    </ScrollViewer>
 </Page>
 

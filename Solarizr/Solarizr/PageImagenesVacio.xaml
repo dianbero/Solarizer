@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="Solarizr.PageImagenesVacio"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Solarizr"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Name="grid" Background="Orange">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <AppBarButton Grid.Column="0" Grid.Row="0" Icon="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Click="AppBarButton_Click">
+            <AppBarButton.RenderTransform>
+                <CompositeTransform ScaleX="2" ScaleY="2"/>
+            </AppBarButton.RenderTransform>
+        </AppBarButton>
+        <TextBlock Grid.Row="0" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Top">Imagenes</TextBlock>
+
+        <VariableSizedWrapGrid Grid.Column="0" Grid.Row="1" Orientation="Horizontal">
+            <AppBarButton Icon="Add" Label="Añadir Imagen" VerticalAlignment="Center">
+                <AppBarButton.RenderTransform>
+                    <CompositeTransform ScaleX="2" ScaleY="2"/>
+                </AppBarButton.RenderTransform>
+            </AppBarButton>
+        </VariableSizedWrapGrid>
+    </Grid>
+</Page>

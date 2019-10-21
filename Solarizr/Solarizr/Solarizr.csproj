@@ -140,6 +140,9 @@
     <Compile Include="PageImagenes.xaml.cs">
       <DependentUpon>PageImagenes.xaml</DependentUpon>
     </Compile>
+    <Compile Include="PageImagenesVacio.xaml.cs">
+      <DependentUpon>PageImagenesVacio.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -191,6 +194,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="PageImagenes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PageImagenesVacio.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
